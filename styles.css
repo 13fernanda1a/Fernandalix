@@ -50,6 +50,6 @@ p{
 
 .categoria-video img:hover {
     opacity: 1.0;
-    border: 1.0;
+    border: 1px;
 
 }
